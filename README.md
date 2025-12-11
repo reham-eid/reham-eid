@@ -40,6 +40,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
 </a>
 
-<!-- Postman removed - not needed -->
+<!-- MobaXterm -->
+<a href="https://mobaxterm.mobatek.net/" target="_blank" rel="noreferrer">
+  <img src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" alt="mobaxterm" width="45" height="45"/>
+</a>
 
 </p>
