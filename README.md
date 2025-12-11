@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😁, I'm Reham Eid</h1>
 <h3 align="center">A passionate Oracle Database Administrator from Egypt</h3>
 
-- 🛠️ I work with **Oracle Database 11g/12c/19c**
+- 🛠️ I work with **Oracle Database 12c/19c/21c/23ai**
 - 🌱 I’m currently learning **Oracle RAC, Data Guard & Performance Tuning**
 - 🧰 Experienced in **Backup & Recovery (RMAN), ASM, OEM, SQL & PL/SQL**
 - 📫 How to reach me: **rehameid2001@gmail.com**
