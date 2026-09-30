@@ -1,9 +1,9 @@
 <h1 align="center">Hi 😁, I'm Reham Eid</h1>
 <h3 align="center">A passionate Oracle Database Administrator from Egypt</h3>
 
-- 🛠️ I work with **Oracle Database 12c/19c/21c/23ai**
-- 🌱 I’m currently learning **Oracle RAC, Data Guard & Performance Tuning**
-- 🧰 Experienced in **Backup & Recovery (RMAN), ASM, OEM, SQL & PL/SQL**
+- 🛠️ I work with **Oracle Database 12c/19c/21c/23ai, SQL Server & MongoDB**
+- 🌱 I'm currently learning **Oracle GoldenGate, Oracle Cloud Infrastructure (OCI), Oracle Cloud AI, Oracle Database@Azure, Exadata Cloud, Autonomous Database, PostgreSQL DBA, Banner & Oracle E-Business Suite (EBS) administration**
+- 🧰 Experienced in **Backup & Recovery (RMAN), ASM, OEM, SQL & PL/SQL, Oracle RAC, Data Guard, Performance Tuning & Tomcat**
 - 📫 How to reach me: **rehameid2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
