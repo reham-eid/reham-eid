@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😁, I'm Reham Eid</h1>
-<h3 align="center">A passionate Oracle Database Administrator from Egypt</h3>
+<h3 align="center">A Passionate Oracle DBA and Applications, Cloud & Database Administrator from Egypt </h3>
 
 - 🛠️ I work with **Oracle Database 12c/19c/21c/23ai, SQL Server & MongoDB**
 - 🌱 I'm currently learning **Oracle GoldenGate, Oracle Cloud Infrastructure (OCI), Oracle Cloud AI, Oracle Database@Azure, Exadata Cloud, Autonomous Database, PostgreSQL DBA, Banner & Oracle E-Business Suite (EBS) administration**
